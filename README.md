@@ -28,7 +28,7 @@ $ cd confluent-3.0.0
 # start Kafka  (in a seperate terminal)
 $ ./bin/kafka-server-start ./etc/kafka/server.properties
 
-# start Schema Registry (in a seperate terminal) - This one can skip if only want to give a try
+# start Schema Registry (in a seperate terminal)
 $ ./bin/schema-registry-start ./etc/schema-registry/schema-registry.properties
 ```
 
