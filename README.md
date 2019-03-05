@@ -14,7 +14,7 @@ Requirements
   * Spring Boot;
   * Spring Kafka;
   
-Step to set up Confluent
+Set up Confluent
 ------------
 
 ```bash
