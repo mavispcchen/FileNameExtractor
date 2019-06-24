@@ -1,9 +1,9 @@
 File Name Extractor
 ========================
 
-This is a simple tool to list all the files' name in a root multi-layer folder using spring-kafka.
+This is a simple tool to list all the files' name in a multi-layer folder using spring-kafka.
 
-To sovle the long process time issue when go through a complicated folder.
+Aim To sovle the long processing time issue when goes through the complicated folder structure.
 
 Try another simpler solution with Blocking-queue under FileNameExtractorWithQueue package.
 
